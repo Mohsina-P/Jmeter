@@ -9,4 +9,4 @@ In Jmeter testing can be done by following ways
 
   a. Jmeter Configuration
     We need to add/set up the HTTP(S) Test Script Recorder as below.
-    https://github.com/Mohsina-P/Jmeter/blob/38831b9fb7a52a0c86b12f0234127da1bd558e7d/JmeterRecordNPlaySetup.png
+   ![Image] (https://github.com/Mohsina-P/Jmeter/blob/38831b9fb7a52a0c86b12f0234127da1bd558e7d/JmeterRecordNPlaySetup.png)
