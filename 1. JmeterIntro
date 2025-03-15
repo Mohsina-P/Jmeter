@@ -1,0 +1,12 @@
+Jmeter is used for performance testing.
+
+Performance testing is atype of testing to ensure software application will perform well under the particular workload.
+
+In Jmeter testing can be done by following ways
+
+1. Record and Play:
+  For this option to work, we need to configure both the Jmeter and Browser initially.
+
+  a. Jmeter Configuration
+    We need to add/set up the HTTP(S) Test Script Recorder as below.
+    https://github.com/Mohsina-P/Jmeter/blob/38831b9fb7a52a0c86b12f0234127da1bd558e7d/JmeterRecordNPlaySetup.png
